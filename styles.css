@@ -1,3 +1,4 @@
+
 body, html {
     margin: 0;
     padding: 0;
@@ -10,12 +11,19 @@ body, html {
     overflow: hidden;
 }
 
+.no-container {
+    background-color: #000000;
+    padding: 5vw;
+    border: 2vw solid #000000;
+    outline: 2vw solid #ffffff;
+}
+
 .big-word {
     font-family: Arial, sans-serif;
-    font-weight: 850;
-    font-size: 40vw;
-    font-style: italic;
-    color: #000000;
+    font-weight: 900;
+    font-size: 30vw;
+    font-style: italic
+    color: #ffffff;
     text-align: center;
     line-height: 1;
     user-select: none;
