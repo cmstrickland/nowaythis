@@ -12,8 +12,9 @@ body, html {
 
 .big-word {
     font-family: Arial, sans-serif;
-    font-weight: bold;
+    font-weight: 850;
     font-size: 40vw;
+    font-style: italic;
     color: #000000;
     text-align: center;
     line-height: 1;
