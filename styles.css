@@ -12,19 +12,22 @@ body, html {
 }
 
 .word-container {
-    background-color: #000000;
-    padding: 5vw;
-    border: 2vw solid #000000;
-    outline: 2vw solid #ffffff;
+	background-color: #fff;
+	padding: 2vw;
+	border: 2vw solid #000000;
+	outline: 2vw solid #ffffff;
+	width: 70%;
 }
 
 .big-word {
-    font-family: Arial, sans-serif;
-    font-weight: 900;
-    font-size: 30vw;
-    font-style: italic;
-    color: #ffffff;
-    text-align: center;
-    line-height: 1;
-    user-select: none;
+	font-family: Arial, sans-serif;
+	font-weight: 900;
+	font-size: 30vw;
+	font-style: italic;
+	color: #ffffff;
+	text-align: center;
+	line-height: 1;
+	user-select: none;
+	background: #000;
 }
+
