@@ -11,7 +11,7 @@ body, html {
     overflow: hidden;
 }
 
-.no-container {
+.word-container {
     background-color: #000000;
     padding: 5vw;
     border: 2vw solid #000000;
