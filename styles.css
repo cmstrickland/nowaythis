@@ -29,5 +29,6 @@ body, html {
 	line-height: 1;
 	user-select: none;
 	background: #000;
+	padding-bottom: 3vw;
 }
 
