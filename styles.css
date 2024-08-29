@@ -7,6 +7,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background-color: #ffffff;
     overflow: hidden;
 }
@@ -32,3 +33,21 @@ body, html {
 	padding-bottom: 3vw;
 }
 
+footer {
+    position: fixed;
+    bottom: 10px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.author-link {
+    font-family: Arial, sans-serif;
+    font-size: 6px;
+    color: #999999;
+    text-decoration: none;
+}
+
+.author-link:hover {
+    text-decoration: underline;
+}
