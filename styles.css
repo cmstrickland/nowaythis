@@ -10,10 +10,10 @@ body, html {
     overflow: hidden;
 }
 
-.big-words {
+.big-word {
     font-family: Arial, sans-serif;
     font-weight: bold;
-    font-size: 40em;
+    font-size: 40vw;
     color: #000000;
     text-align: center;
     line-height: 1;
